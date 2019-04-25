@@ -1,0 +1,1328 @@
+{
+    "KerjaSama": [
+        {
+            "IdKurir": "3794",
+            "IdAkun": 0
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 0
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 0
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 1
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 2
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 3
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 3
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 3
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 3
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 4
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 4
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 5
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 5
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 5
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 6
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 6
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 6
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 6
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 7
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 7
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 7
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 7
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 8
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 8
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 8
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 8
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 9
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 9
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 10
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 11
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 11
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 11
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 11
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 11
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 12
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 12
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 13
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 13
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 13
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 13
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 14
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 14
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 14
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 15
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 15
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 15
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 16
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 16
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 16
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 16
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 17
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 18
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 18
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 18
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 18
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 18
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 19
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 20
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 20
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 20
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 20
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 20
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 21
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 22
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 23
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 23
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 23
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 23
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 24
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 24
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 24
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 24
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 24
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 25
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 25
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 26
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 26
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 27
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 28
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 29
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 29
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 29
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 29
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 30
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 30
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 30
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 30
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 31
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 31
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 31
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 32
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 33
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 33
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 33
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 33
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 33
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 34
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 34
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 35
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 35
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 35
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 35
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 35
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 36
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 36
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 36
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 36
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 37
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 37
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 37
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 37
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 38
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 39
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 39
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 39
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 39
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 40
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 40
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 40
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 40
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 41
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 41
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 41
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 41
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 42
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 42
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 42
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 43
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 43
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 43
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 44
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 44
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 44
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 45
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 45
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 45
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 45
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 46
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 46
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 47
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 47
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 47
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 47
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 47
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 48
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 48
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 49
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 49
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 50
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 50
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 51
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 52
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 53
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 53
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 54
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 54
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 54
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 54
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 54
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 55
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 55
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 55
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 56
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 56
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 56
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 56
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 56
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 57
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 57
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 57
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 58
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 58
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 58
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 59
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 59
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 59
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 60
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 61
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 61
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 62
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 62
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 62
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 62
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 62
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 63
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 64
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 64
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 64
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 64
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 64
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 65
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 65
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 66
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 66
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 66
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 67
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 67
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 67
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 68
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 68
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 68
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 68
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 68
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 69
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 69
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 69
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 69
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 70
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 71
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 71
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 72
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 73
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 73
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 73
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 73
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 74
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 75
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 75
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 75
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 75
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 76
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 76
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 76
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 77
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 77
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 78
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 78
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 78
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 78
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 79
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 79
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 80
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 80
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 80
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 80
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 80
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 81
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 82
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 83
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 83
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 83
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 83
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 83
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 84
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 84
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 84
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 85
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 85
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 86
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 86
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 86
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 87
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 87
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 87
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 87
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 88
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 89
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 89
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 89
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 89
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 89
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 90
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 90
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 90
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 91
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 91
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 91
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 92
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 92
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 93
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 93
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 93
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 93
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 93
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 94
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 94
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 94
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 94
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 95
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 95
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 95
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 96
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 96
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 97
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 97
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 97
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 97
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 97
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "6229",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "5015",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "3798",
+            "IdAkun": 98
+        },
+        {
+            "IdKurir": "5017",
+            "IdAkun": 99
+        },
+        {
+            "IdKurir": "5012",
+            "IdAkun": 99
+        },
+        {
+            "IdKurir": "3794",
+            "IdAkun": 99
+        },
+        {
+            "IdKurir": "3796",
+            "IdAkun": 99
+        },
+        {
+            "IdKurir": "6221",
+            "IdAkun": 99
+        },
+        {
+            "IdKurir": "6223",
+            "IdAkun": 99
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Kurir": [
+        {
+            "NamaKurir": "WilsonFasttrack",
+            "IdKurir": "6221"
+        },
+        {
+            "NamaKurir": "WeberLine",
+            "IdKurir": "5012"
+        },
+        {
+            "NamaKurir": "JRE",
+            "IdKurir": "6223"
+        },
+        {
+            "NamaKurir": "JNE",
+            "IdKurir": "3794"
+        },
+        {
+            "NamaKurir": "MaquiaLine",
+            "IdKurir": "5015"
+        },
+        {
+            "NamaKurir": "RichAirline",
+            "IdKurir": "3796"
+        },
+        {
+            "NamaKurir": "ThompsonDeliveryService",
+            "IdKurir": "5017"
+        },
+        {
+            "NamaKurir": "TurnerInc",
+            "IdKurir": "3798"
+        },
+        {
+            "NamaKurir": "KaiserQuick",
+            "IdKurir": "6229"
+        }
+    ]
+}

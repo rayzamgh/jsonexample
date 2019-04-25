@@ -1,0 +1,6480 @@
+{
+    "Memiliki": [
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "5011234191"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "6671234180"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "667123270"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "5011234510"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "622111533"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "379332177"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "3791234642"
+        },
+        {
+            "IdAkun": 3,
+            "kodeVoucher": "625111140"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "3791234751"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "379332610"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "379123819"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "625111982"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "622111554"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "6251234189"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "6221234807"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "625902137"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "667123449"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "501332633"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "622332812"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "625332109"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "625902119"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "622902419"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "501123475"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667111585"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "5011234126"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667902884"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "66733213"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "3791234330"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "622123176"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "379902383"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667123817"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "625332804"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "66712383"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "625332414"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "3791234207"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "379902829"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "379332730"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "62533228"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "625332876"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "622332728"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "62512344"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "6221234859"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "501111727"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "625111136"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "50190211"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "379332763"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "6671234433"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "667123547"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "501332833"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622123388"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "501332589"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622111490"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "501123465"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "667111374"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "6671234268"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "625111659"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "625123912"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "667332347"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "6251234294"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "622123582"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "379123975"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "667902688"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "3791234758"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "379123583"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "5011234949"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "622332138"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "6221234799"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667902943"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "501111768"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "667111963"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "379111167"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "625111948"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "37911135"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "667902254"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "62212321"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "6251234189"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "5011234708"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "625111140"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "625111979"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "6671234364"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "501332656"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "667123817"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "501332528"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "625111292"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "6671234702"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "379902988"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "667902105"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "3791234291"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667902105"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "6671234869"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "622332812"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "3791234837"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "625123450"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "622332445"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "501332558"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667123514"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "501123923"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "667111276"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "625902796"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "379332610"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "625902148"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "37911166"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "501111248"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "501123564"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "62590287"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "66711191"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "667332847"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "501123417"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "622111962"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "667111603"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "6251234245"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "501902517"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "62533251"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "501123170"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "622123452"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "501111920"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "625332462"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "501332673"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667332618"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "37933271"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667123462"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "625123873"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667111249"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "501111160"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "6221234706"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "6251234987"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "667123731"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "5011234548"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "501111398"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "625111915"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "66733298"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "667111135"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "667902675"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "6671112"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "622902616"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "379902197"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "667902130"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "625123461"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "625123873"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "501332166"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "6221234671"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "62533228"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "625332876"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "667111667"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379111167"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379902871"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "501332528"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667332824"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622123264"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622332960"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "6221234765"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "625902733"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667332824"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "501902234"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "667111116"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "625111659"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "6221234946"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "667902938"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "50190234"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "5011234998"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "6671234818"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "379902182"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "37933220"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "6671234426"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "622332210"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "501902120"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "6251234814"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "379902988"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "62511112"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "625111915"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "6671234954"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "622111236"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625123493"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "6251234900"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "379332425"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "622332443"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "66733248"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "501123168"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "5011234211"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "667332895"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "379111971"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "5011234492"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "667123244"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "37912392"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "5011234816"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "622111272"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379111221"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "622111666"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379111167"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "62211139"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379111972"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "6221234317"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "501902267"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "622111457"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "501332423"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "66712346"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "667332737"
+        },
+        {
+            "IdAkun": 4,
+            "kodeVoucher": "667123541"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "379111115"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "667123530"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "379332303"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "6671234241"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "667123366"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "62590225"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "622111299"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "50190234"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "6221234550"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "622111151"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "6221234698"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "501902967"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "6221234917"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "6221234645"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "625902252"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "622123582"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "622332960"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "501123549"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "625111280"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "625111289"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "501332940"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "622332524"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "501123689"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "622123620"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "622332935"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "379902197"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "379902470"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "625332462"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "379332610"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "667111378"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "379123508"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "622111259"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "622332921"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "667123290"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "6221234550"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "625332853"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "501902904"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "667902815"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "667123757"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "379332425"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "6221234479"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "62290258"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "667332343"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "379902785"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "622332647"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "622123146"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "62233229"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "6221234961"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "62533285"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "379111409"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "379902197"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "622111639"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "62290274"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "379902624"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "625123461"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "625123632"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "379111626"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "667332771"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "379111504"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "5011234548"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "379111811"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "667332285"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "501332306"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "667111219"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "6251234245"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625111287"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "62512344"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "625123752"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "667902862"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "622111272"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "501332902"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "379111519"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "622111623"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "62533282"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667902701"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "622902958"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "501332810"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "379902449"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "6671234869"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667111679"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667111929"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "6251234611"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "379123819"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "37933220"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "66711167"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "6221234474"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "6251234223"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "622902584"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "667123375"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "625123947"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "501902472"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "667902424"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "667111929"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "50112357"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "379332591"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "5011234492"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379111664"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "501123170"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "501111768"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "622902613"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "667123731"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "622902481"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "66733226"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "667111634"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "667332654"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "379902777"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "667902335"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "625123410"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "6671234469"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "379111971"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "62512386"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "625123359"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "379123451"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "62290218"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "622111628"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "66711124"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "66712363"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "622332396"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "667902680"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "625123973"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "501111768"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "622111272"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "62212316"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "379111432"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "622902729"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "501111118"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "6253321"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "625111597"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "622111457"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "6221234896"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "6671234911"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "501111874"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "625111659"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "667332978"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "667332247"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "6221234706"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "667123144"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "501111892"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "379902756"
+        },
+        {
+            "IdAkun": 85,
+            "kodeVoucher": "501332423"
+        },
+        {
+            "IdAkun": 85,
+            "kodeVoucher": "501902227"
+        },
+        {
+            "IdAkun": 85,
+            "kodeVoucher": "667123437"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "622111457"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "667902391"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "6671112"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "5011234690"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "667111857"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "379332712"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "66711156"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "5011234492"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "379332463"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "622111749"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "379111129"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "667111603"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "667902335"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "625123421"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "667332162"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "667111857"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "379111448"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "667902521"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "6671234650"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "667332895"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "501111695"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "379332724"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "622332567"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "6251234385"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "6251234223"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "501332242"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "501123969"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "667111399"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "62512386"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "501332596"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "667332978"
+        },
+        {
+            "IdAkun": 5,
+            "kodeVoucher": "501111683"
+        },
+        {
+            "IdAkun": 5,
+            "kodeVoucher": "379123328"
+        },
+        {
+            "IdAkun": 5,
+            "kodeVoucher": "625332637"
+        },
+        {
+            "IdAkun": 5,
+            "kodeVoucher": "625111289"
+        },
+        {
+            "IdAkun": 5,
+            "kodeVoucher": "625123494"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "625902593"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "625902861"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "625902137"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "625111835"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "622332586"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "62590287"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "5011115"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "379902976"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "6251234709"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "622902842"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "37912395"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "625123803"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "667123475"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "625902392"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "625902348"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "501111985"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379123459"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "501332440"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "5011234893"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "622332586"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "667123757"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "622111259"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "6221234171"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "667111691"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "501111914"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "6221234106"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "622123742"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "6251234926"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "501332169"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "5011234893"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "379123627"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "622332222"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "5011234253"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "379111504"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "501902967"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "625902699"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "379123897"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "622111872"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "6251234900"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "501332596"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "667332266"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "501902227"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622902220"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "379111971"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622123466"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "5013328"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "50112357"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "501123447"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "379123627"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "667123270"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "62211139"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "501902908"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "667902850"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "667332841"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "379123957"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501332242"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501902754"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501332596"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501332166"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501902716"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501332166"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "622902882"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "501332311"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "3791234642"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "501123969"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "667123684"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "622332592"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "6221234859"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "625902604"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "622111209"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "62511177"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "501123937"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "501332320"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "6671234433"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "622902513"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "667332762"
+        },
+        {
+            "IdAkun": 53,
+            "kodeVoucher": "62511140"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "379332730"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667902834"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "501902916"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "6671234980"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "379111129"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "625902505"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "379123778"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667332841"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667332824"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667332347"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "622111594"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "622332921"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "667902815"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "3791234207"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "622123442"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "667123473"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "379902734"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "6251234223"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "625111761"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "379902871"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "667111540"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "6671234869"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "622111533"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "622902452"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "62211131"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "501332311"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "379902237"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "667111929"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "6671234274"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "667902680"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "622111379"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "667123753"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379123405"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379902449"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379332844"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "501332480"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "62511153"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "501332367"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "667123369"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "379123508"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "62511112"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "62211143"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "667332285"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "667123757"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "622123522"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "625902468"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "379111794"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "6251234738"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "3791234758"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "6251234216"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "379111686"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "625902252"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "667123547"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "622111554"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "625111608"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "6671234433"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "667332895"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "622332443"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "6259029"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "379902734"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "667111792"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "6251234926"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "625123803"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "622332210"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "501111985"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667123741"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667123741"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "6671234997"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667902555"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "625332899"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "501332906"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "379123957"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "6251234643"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "62290218"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "379111971"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "3791234878"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "6671234997"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "379123953"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "6251234507"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "6221234314"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "625111782"
+        },
+        {
+            "IdAkun": 6,
+            "kodeVoucher": "622111371"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "625902501"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "625111464"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "6221234550"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667123473"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "6251234223"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "6221234917"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "3791234491"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667332638"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667111746"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "625111866"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "501902881"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "62212372"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "6221234713"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "37933220"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "501123447"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "667111857"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "667332722"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "501902716"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "622332460"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "625902348"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "622123395"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "667332266"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "6671234274"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "667111112"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "66711191"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "501332161"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "379902871"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "62590276"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "501123937"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "625111289"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "501332480"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "667332347"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "625332286"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "62511112"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "625123319"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "667111329"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "501902257"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "667123240"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "501332306"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "667332131"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "622111628"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "379332381"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "625123913"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "625123947"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667332273"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "37990232"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "622902481"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "501123800"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "622902452"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "501111529"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "625902569"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "622111151"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "379332526"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "622332567"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "3791234577"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "6221234840"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "62533233"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "6671234787"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "501902615"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "6221234534"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "622902573"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "501332320"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "625123444"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "625332155"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "501123934"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "622332460"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "37990232"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "622332438"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "625111622"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "622332567"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "667111112"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667111789"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "625902447"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "379111769"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "6251234324"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "3791234577"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "625332804"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "625123803"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "5011234211"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "501332311"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "667111127"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "622332728"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "667332173"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "379111519"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "625332462"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "5011234602"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "667111112"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379902898"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "379902674"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667111679"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "6251234134"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "501111351"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "622111640"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "6671234702"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "625332856"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "622123858"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "37911170"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "379902200"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "622123681"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "501902889"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "622123999"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625123410"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667123445"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "379111794"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625332590"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "6671234813"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667332544"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "501332380"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "379111179"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "379123565"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "622123154"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625902323"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625123494"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "379902411"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "62512386"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "625902149"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "3791234878"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "667123441"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "501332387"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "6251234945"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "667111205"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "625902125"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "622902994"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379332730"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625111292"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "5011234503"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "667111963"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "625123444"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "379123405"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "501332480"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "622902729"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "501902967"
+        },
+        {
+            "IdAkun": 7,
+            "kodeVoucher": "622902952"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "622902952"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "622111872"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "501332940"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "501332833"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "625902779"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "501902257"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "501902257"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "6221234429"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "6671112"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "379332992"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "379332486"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "6251234294"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "501332178"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "501902889"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "50133265"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "379111432"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "50190211"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "622111623"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "379332463"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "37912330"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "667902521"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "625123215"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "667332404"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "3791234986"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "622332931"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "622902648"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "379111710"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "625111140"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "622332460"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "6671234150"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "625111382"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "379902624"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "3791234751"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "625902576"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "625332175"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "622111903"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "6221234190"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "667111535"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "622902513"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "622123265"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "379123531"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "6671234326"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "62290218"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "622332460"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "379111710"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "622111457"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "501111118"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "6251234294"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "667111887"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "501902615"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "667111516"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "625111551"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "625111315"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625902699"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625111464"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "667902599"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625123204"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "667123369"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "6251234435"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "501111183"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "6671234560"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "379123953"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "6671234326"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "62512327"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "379111360"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "622332647"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "622111506"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "622332812"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "501332423"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "625123653"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "501111941"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667111780"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "379123405"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "379902756"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667111110"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667111276"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "6671234954"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "501111588"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "667902675"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "62211179"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "501111248"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "625332821"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "6671112"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "625111761"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "6221234706"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "379902775"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "667111679"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "625123703"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "667123441"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "625332156"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "6671234755"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "667123757"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "667902483"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "622111209"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "622111903"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379111368"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379332712"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "62290274"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "501123417"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "625332853"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "66711191"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "62290274"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "622902419"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "622902584"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "5011234503"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "625111659"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "622332373"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "625332545"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "501902989"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "667902652"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "625111932"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "62512378"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "501111124"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "625111982"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "622123455"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "501332940"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "625332361"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "501902908"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "501332633"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "625123356"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "667902834"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "622902715"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "667332841"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "6251234793"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "625332462"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "501332480"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "667123437"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "625111995"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "5011234191"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "667902680"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "6253321"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "501902461"
+        },
+        {
+            "IdAkun": 85,
+            "kodeVoucher": "625111866"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "501123826"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "622123146"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "625123846"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "667332212"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "622123820"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "6671234532"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "62533285"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "667902688"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "501332166"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "6251234507"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "379902449"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "379902672"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "5011234918"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "667332488"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "667902836"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "6671234668"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "625123933"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "622123121"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "66733298"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "625111229"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "625902699"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "622123512"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "667111201"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "6671234869"
+        },
+        {
+            "IdAkun": 8,
+            "kodeVoucher": "501332174"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "667123731"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "622332222"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "6251234507"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "5011234658"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379332463"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "667111374"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "625332288"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379123922"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379902383"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "667111634"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "501902257"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "667902943"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "379902182"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "6671234426"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "379123819"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "501123969"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "625332511"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "501111617"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "62512327"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "625123421"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "379123442"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "667332173"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "379902721"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "622123146"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "62290214"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "501123418"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "625123527"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "379111686"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "6251234363"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622123295"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "667111795"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "3791234751"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "625123653"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "622332877"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "3791234559"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "501111183"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "6221234773"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "501902595"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "501902427"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "6251234385"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "501111160"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "667111693"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "379902624"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "379332610"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "625111622"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "66711197"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "501332596"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "379123459"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "625111287"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "501902332"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "6221234645"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "379111519"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "622902958"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "501902453"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "379111115"
+        },
+        {
+            "IdAkun": 53,
+            "kodeVoucher": "625123912"
+        },
+        {
+            "IdAkun": 53,
+            "kodeVoucher": "379902871"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667123350"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "6221234609"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "379111439"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667123499"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "622123388"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667902521"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667332841"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "379111296"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "501123689"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "625332853"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "622902365"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "501332528"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "667111732"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "501332867"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "6671234787"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "667332544"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "622111739"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "379111811"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "625111622"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "501902716"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "501332423"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "501123549"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "622123232"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "6251234245"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "379111769"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "501902305"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "625123139"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "625332568"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "625111835"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "625123421"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "5011234338"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "667332737"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "6251234709"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "6251234363"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "667332454"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "62533273"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "6221234961"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "667902766"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "6671234301"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "667111194"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "379111129"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "3791234642"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "6251234302"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "501111874"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "622111379"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "667111651"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "622111623"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "6221234635"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "625332155"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "501332455"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "501332669"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "622902745"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "625902805"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "501111727"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "6251234987"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "667111201"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "622123264"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "622123999"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "379332394"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "667111857"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "5011234338"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "501332633"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "667123270"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "667123741"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "501111695"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "62590287"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667902279"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "625123246"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "625902501"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "667332343"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "37912330"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "625902447"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "6671234159"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "625332511"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "625123947"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "667123441"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "66733213"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "622123264"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "6221234106"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "622332210"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "625111622"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "667123369"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "622111965"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "6671234740"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "379902237"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "501123549"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "622902214"
+        },
+        {
+            "IdAkun": 9,
+            "kodeVoucher": "501123465"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667123290"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "501332833"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "625123132"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "667123809"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "622111739"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "501332557"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "501902305"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "625902468"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "379123565"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "379332463"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "379332786"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "379332100"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "379332591"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "3791234195"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "501111977"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "667111243"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "379332844"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "379902416"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "501902517"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "6671234346"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "62512354"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "379123791"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "5011234548"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "379902829"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "6671234426"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "6251234945"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622902958"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "37912395"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622332443"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "625902323"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "501332349"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "625123410"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "625111561"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "625123855"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "3791113"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "379902721"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667111691"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667111164"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667332273"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "501123687"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "6221234171"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "625902252"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "6671234159"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "622332630"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "625111782"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "379332735"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "622332445"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "625332910"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "622111554"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "625111608"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "501332589"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "5011234492"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "379902775"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667111108"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "622123295"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "622111955"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "622111739"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "379111432"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "625902348"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "667111963"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "6671234326"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "622332567"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "667123350"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "625111229"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "667123369"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "37933217"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "625111622"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "667902680"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "625902784"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "501123419"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "625332477"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "62233229"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "622902983"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "622332935"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "625123873"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "6221234282"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "625111605"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "622902452"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "667332762"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "66733226"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "625902478"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "625123873"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "667111679"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "667332638"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "625902342"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "379332394"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "625902148"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "625123570"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "667902862"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "625902823"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "6221234917"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "6251234709"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "622111640"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "667902884"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "622123232"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379123975"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667332273"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622332592"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "625111761"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "379902217"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "379332724"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622902157"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "6671234498"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "622902715"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "667123366"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "37911166"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "5011234503"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "379902470"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "66711169"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "625123752"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "622123452"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "6251234587"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "622123372"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "501123489"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "622332460"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "667111516"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "379123325"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "66711156"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "3791234837"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "62533282"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "622123442"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "379332968"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625123444"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "6671234301"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625111782"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625332545"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625332511"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "5011234816"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667332544"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "501111768"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "6251234435"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "667332408"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625902852"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "501111941"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "501123934"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "5011234126"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "501902158"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "625111605"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "622332801"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379123975"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625332856"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "501332467"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625332477"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "379111218"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625111551"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "667123499"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "667902870"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "379332226"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "5011234510"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "6251234643"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "5011234816"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "379902476"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "5011234970"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "667332841"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "667332454"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "379902237"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "501111183"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "3791234642"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "6221234671"
+        },
+        {
+            "IdAkun": 10,
+            "kodeVoucher": "667332824"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "379332303"
+        },
+        {
+            "IdAkun": 13,
+            "kodeVoucher": "667332546"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "625332477"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "6221234190"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "501111617"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "667123530"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "622123512"
+        },
+        {
+            "IdAkun": 16,
+            "kodeVoucher": "622902616"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "62590280"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "6221234840"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "667332762"
+        },
+        {
+            "IdAkun": 19,
+            "kodeVoucher": "625332545"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "6251234245"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "6251234736"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "622111749"
+        },
+        {
+            "IdAkun": 22,
+            "kodeVoucher": "6221234961"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "667902884"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "62533273"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "667332131"
+        },
+        {
+            "IdAkun": 25,
+            "kodeVoucher": "625111458"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "66711197"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "379332598"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "379123405"
+        },
+        {
+            "IdAkun": 28,
+            "kodeVoucher": "622332184"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "622111457"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "622123388"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "379123922"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "379332992"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "379123238"
+        },
+        {
+            "IdAkun": 31,
+            "kodeVoucher": "625111382"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "625902186"
+        },
+        {
+            "IdAkun": 34,
+            "kodeVoucher": "5011234918"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "379332303"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "66712383"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "379902416"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "622332524"
+        },
+        {
+            "IdAkun": 37,
+            "kodeVoucher": "6671234984"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "6671234469"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "501332901"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "622902214"
+        },
+        {
+            "IdAkun": 40,
+            "kodeVoucher": "379902200"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "379902756"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "6221234706"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625902403"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "379332992"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "667902518"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "501902615"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "625123913"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "501123101"
+        },
+        {
+            "IdAkun": 43,
+            "kodeVoucher": "622111533"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "6671234128"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "6221234765"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "625902823"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "501332907"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "379332303"
+        },
+        {
+            "IdAkun": 46,
+            "kodeVoucher": "501332907"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "379902333"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "625111111"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "379111360"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "6671234911"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "62212336"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "622123520"
+        },
+        {
+            "IdAkun": 49,
+            "kodeVoucher": "501123484"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "6221234671"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "622902384"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "625332525"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667902884"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667332499"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "667123445"
+        },
+        {
+            "IdAkun": 52,
+            "kodeVoucher": "622332509"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "379332723"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "379902217"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "625123450"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "379902390"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "501123564"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "622902345"
+        },
+        {
+            "IdAkun": 55,
+            "kodeVoucher": "625902403"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "625123846"
+        },
+        {
+            "IdAkun": 58,
+            "kodeVoucher": "501123489"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "6251234507"
+        },
+        {
+            "IdAkun": 61,
+            "kodeVoucher": "622902513"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "667902677"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379902117"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "622332614"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379111296"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "667111164"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379902383"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "3791234471"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "501902141"
+        },
+        {
+            "IdAkun": 64,
+            "kodeVoucher": "379902976"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "6671234818"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "667902521"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "622111357"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "667332285"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "625123653"
+        },
+        {
+            "IdAkun": 67,
+            "kodeVoucher": "379332381"
+        },
+        {
+            "IdAkun": 70,
+            "kodeVoucher": "667902536"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "667111135"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "667902839"
+        },
+        {
+            "IdAkun": 73,
+            "kodeVoucher": "5011234885"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "625111606"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "622332509"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "379123377"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "625111551"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "379123565"
+        },
+        {
+            "IdAkun": 76,
+            "kodeVoucher": "622123265"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "667123231"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "3791234413"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "379111218"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "501332542"
+        },
+        {
+            "IdAkun": 79,
+            "kodeVoucher": "62290258"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "625111458"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "501902863"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "3791234802"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "37912330"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "667902839"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "625332821"
+        },
+        {
+            "IdAkun": 82,
+            "kodeVoucher": "3791234802"
+        },
+        {
+            "IdAkun": 85,
+            "kodeVoucher": "625123246"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "501332320"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "379332303"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "667111276"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "625902352"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "62511177"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "379902200"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "6221234706"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "622332524"
+        },
+        {
+            "IdAkun": 88,
+            "kodeVoucher": "667332546"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "622123520"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "625111948"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "667111194"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "625902348"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "622123820"
+        },
+        {
+            "IdAkun": 91,
+            "kodeVoucher": "379902122"
+        },
+        {
+            "IdAkun": 94,
+            "kodeVoucher": "625123123"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "667123244"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "379332718"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "625902852"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "62212321"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "667123369"
+        },
+        {
+            "IdAkun": 97,
+            "kodeVoucher": "379123451"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "66733298"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "379902988"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "625111605"
+        },
+        {
+            "IdAkun": 100,
+            "kodeVoucher": "625123574"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "6671234339"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "5011234893"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "667123152"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "667902850"
+        },
+        {
+            "IdAkun": 103,
+            "kodeVoucher": "62290258"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "379332177"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "622111357"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "667902105"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "625123947"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "625332909"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "501111248"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "50190211"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "622332572"
+        },
+        {
+            "IdAkun": 106,
+            "kodeVoucher": "667332343"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "6251234435"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "6671234668"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "625902822"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "66711167"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 11,
+            "kodeVoucher": "667111261"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379332425"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379902147"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "622902745"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "379111686"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "501902989"
+        },
+        {
+            "IdAkun": 14,
+            "kodeVoucher": "625111866"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "622123858"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "667111164"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "5013328"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "622332748"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "379902117"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "622332921"
+        },
+        {
+            "IdAkun": 17,
+            "kodeVoucher": "625111608"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "379902721"
+        },
+        {
+            "IdAkun": 20,
+            "kodeVoucher": "6671234772"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "6251234294"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "667123449"
+        },
+        {
+            "IdAkun": 23,
+            "kodeVoucher": "625111315"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "6671234980"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "625123653"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "622902729"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "501111529"
+        },
+        {
+            "IdAkun": 26,
+            "kodeVoucher": "622902890"
+        },
+        {
+            "IdAkun": 29,
+            "kodeVoucher": "667111276"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622902641"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "667332848"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "6251234134"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622902745"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "501332867"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "625111382"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "625123974"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "622902513"
+        },
+        {
+            "IdAkun": 32,
+            "kodeVoucher": "667332618"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "667123809"
+        },
+        {
+            "IdAkun": 35,
+            "kodeVoucher": "6251234736"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "667332173"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "667902700"
+        },
+        {
+            "IdAkun": 38,
+            "kodeVoucher": "667123731"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "379902122"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "66712346"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "667123753"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "6671234997"
+        },
+        {
+            "IdAkun": 41,
+            "kodeVoucher": "66711156"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "622123295"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "379332724"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "6671234629"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "379332992"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "667111789"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "667902943"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "622902384"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "501902308"
+        },
+        {
+            "IdAkun": 44,
+            "kodeVoucher": "667123809"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "622123372"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "62533251"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "6221234171"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "625111292"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "625111561"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "501332320"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "622123442"
+        },
+        {
+            "IdAkun": 47,
+            "kodeVoucher": "667902646"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "6221234896"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "622902616"
+        },
+        {
+            "IdAkun": 50,
+            "kodeVoucher": "66733248"
+        },
+        {
+            "IdAkun": 53,
+            "kodeVoucher": "62211179"
+        },
+        {
+            "IdAkun": 53,
+            "kodeVoucher": "625111140"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "37912392"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "6259029"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "5011234258"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "6221234961"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667123827"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "6251234643"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "379902734"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "667111164"
+        },
+        {
+            "IdAkun": 56,
+            "kodeVoucher": "501332281"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667332454"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667902870"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "625902447"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "622111903"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "3791234996"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667332737"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667902919"
+        },
+        {
+            "IdAkun": 59,
+            "kodeVoucher": "667902599"
+        },
+        {
+            "IdAkun": 62,
+            "kodeVoucher": "501111665"
+        },
+        {
+            "IdAkun": 65,
+            "kodeVoucher": "501332901"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "501332867"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "379902416"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "501332558"
+        },
+        {
+            "IdAkun": 68,
+            "kodeVoucher": "622111965"
+        },
+        {
+            "IdAkun": 71,
+            "kodeVoucher": "3791234798"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "622902220"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379902843"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379332394"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "379902182"
+        },
+        {
+            "IdAkun": 74,
+            "kodeVoucher": "622111272"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "62533251"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "379111129"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "667902105"
+        },
+        {
+            "IdAkun": 77,
+            "kodeVoucher": "379111456"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "501332589"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "625123912"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "501332867"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "501123143"
+        },
+        {
+            "IdAkun": 80,
+            "kodeVoucher": "379123583"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "379902988"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "667111516"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "667111950"
+        },
+        {
+            "IdAkun": 83,
+            "kodeVoucher": "622111623"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "622111379"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "379332694"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "667111535"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "625332821"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "62290274"
+        },
+        {
+            "IdAkun": 86,
+            "kodeVoucher": "625902186"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "667123731"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "6221234282"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "379902556"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "501123192"
+        },
+        {
+            "IdAkun": 89,
+            "kodeVoucher": "5011234880"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "379123531"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "667332762"
+        },
+        {
+            "IdAkun": 92,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "667111887"
+        },
+        {
+            "IdAkun": 95,
+            "kodeVoucher": "622332438"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "667123103"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "625902278"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "62590287"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "622123388"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "501332380"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "379332463"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "667111329"
+        },
+        {
+            "IdAkun": 98,
+            "kodeVoucher": "379123328"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "379123327"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "6671234274"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "6221234282"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "501902497"
+        },
+        {
+            "IdAkun": 101,
+            "kodeVoucher": "622902958"
+        },
+        {
+            "IdAkun": 104,
+            "kodeVoucher": "625123912"
+        },
+        {
+            "IdAkun": 107,
+            "kodeVoucher": "622902648"
+        },
+        {
+            "IdAkun": 107,
+            "kodeVoucher": "625111133"
+        },
+        {
+            "IdAkun": 12,
+            "kodeVoucher": "501111398"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "625332821"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "667123144"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "6221234317"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "622111554"
+        },
+        {
+            "IdAkun": 15,
+            "kodeVoucher": "501123101"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "501902663"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "667111135"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "50112337"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "625902208"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "6671234818"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "6671234668"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "667123462"
+        },
+        {
+            "IdAkun": 18,
+            "kodeVoucher": "6251234235"
+        },
+        {
+            "IdAkun": 21,
+            "kodeVoucher": "622902293"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "379332598"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622332812"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "62533251"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "622111151"
+        },
+        {
+            "IdAkun": 24,
+            "kodeVoucher": "379332718"
+        },
+        {
+            "IdAkun": 27,
+            "kodeVoucher": "62590293"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "622111554"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "6671234159"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "625123310"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "379111972"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "622332210"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "6221234314"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "379902449"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "622123232"
+        },
+        {
+            "IdAkun": 30,
+            "kodeVoucher": "379332226"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "622332222"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "501123549"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667902991"
+        },
+        {
+            "IdAkun": 33,
+            "kodeVoucher": "667902677"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "667111634"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "667111110"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "379111626"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "501332744"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "625902137"
+        },
+        {
+            "IdAkun": 36,
+            "kodeVoucher": "379332610"
+        },
+        {
+            "IdAkun": 39,
+            "kodeVoucher": "379332591"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "37912368"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "622111259"
+        },
+        {
+            "IdAkun": 42,
+            "kodeVoucher": "6671234326"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "625332821"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "625123172"
+        },
+        {
+            "IdAkun": 45,
+            "kodeVoucher": "667332848"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "50133265"
+        },
+        {
+            "IdAkun": 48,
+            "kodeVoucher": "622111903"
+        },
+        {
+            "IdAkun": 51,
+            "kodeVoucher": "6221234671"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "667332142"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "379123953"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "379111664"
+        },
+        {
+            "IdAkun": 54,
+            "kodeVoucher": "622902553"
+        },
+        {
+            "IdAkun": 57,
+            "kodeVoucher": "379902383"
+        },
+        {
+            "IdAkun": 60,
+            "kodeVoucher": "379902930"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "501902305"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "379111456"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "625902447"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "6251234926"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "379332735"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "622111790"
+        },
+        {
+            "IdAkun": 63,
+            "kodeVoucher": "501332906"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "501902924"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "379902777"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "379902774"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "3791234676"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "501902332"
+        },
+        {
+            "IdAkun": 66,
+            "kodeVoucher": "667902966"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "622111639"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "501902595"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "667123230"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "62233222"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "5011234970"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "501332673"
+        },
+        {
+            "IdAkun": 69,
+            "kodeVoucher": "667111116"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379332944"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "622111506"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "3791234879"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "667123851"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379111686"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "622123154"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "625902323"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "379123778"
+        },
+        {
+            "IdAkun": 72,
+            "kodeVoucher": "6671234787"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "501332349"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622111357"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "6671234364"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667332131"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "667332499"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "6221234358"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "622123395"
+        },
+        {
+            "IdAkun": 75,
+            "kodeVoucher": "501902595"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "622902890"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "5011234198"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "501123489"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "379111504"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "667902701"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "5011234338"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "667332964"
+        },
+        {
+            "IdAkun": 78,
+            "kodeVoucher": "6251234362"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "622902513"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "625902501"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "6251234435"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "622902648"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "501111284"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "62290214"
+        },
+        {
+            "IdAkun": 81,
+            "kodeVoucher": "625902148"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "6221234282"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "501123107"
+        },
+        {
+            "IdAkun": 84,
+            "kodeVoucher": "622111639"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "5013328"
+        },
+        {
+            "IdAkun": 87,
+            "kodeVoucher": "667111108"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667902870"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667111857"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "667123473"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "5011234956"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "379111360"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "625111608"
+        },
+        {
+            "IdAkun": 90,
+            "kodeVoucher": "6221234282"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "501902257"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "667123144"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "3791234577"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625902501"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "37911135"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "50112357"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "625111915"
+        },
+        {
+            "IdAkun": 93,
+            "kodeVoucher": "667111127"
+        },
+        {
+            "IdAkun": 96,
+            "kodeVoucher": "667902705"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "501111398"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "667902652"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "62512386"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "667111401"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625111133"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "501902227"
+        },
+        {
+            "IdAkun": 99,
+            "kodeVoucher": "625111608"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "66733296"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "379123275"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "6221234601"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "625902119"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "6251234738"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "6221234635"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "622123265"
+        },
+        {
+            "IdAkun": 102,
+            "kodeVoucher": "379123459"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "667123514"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "6251234507"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "622902925"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "667111667"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "667111164"
+        },
+        {
+            "IdAkun": 105,
+            "kodeVoucher": "622111236"
+        },
+        {
+            "IdAkun": 108,
+            "kodeVoucher": "6251234189"
+        },
+        {
+            "IdAkun": 108,
+            "kodeVoucher": "622902842"
+        }
+    ]
+}

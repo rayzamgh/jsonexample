@@ -1,0 +1,624 @@
+{
+    "Alamat": [
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "PSC 4872, Box 6565, APO AP 18787",
+            "IdAkun": "1"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "319 Tanya Prairie Suite 672, West Davidshire, ME 53794",
+            "IdAkun": "2"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "3316 Jordan Stravenue Suite 521, North Cheyenne, WY 90042",
+            "IdAkun": "3"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "361 Burton Harbor Apt. 948, Lawrencetown, DE 89541",
+            "IdAkun": "3"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "22362 Amanda Squares, Acostafurt, CA 54665",
+            "IdAkun": "4"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "3236 Frank Tunnel Apt. 614, Lake Phillipbury, AK 87300",
+            "IdAkun": "5"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "USCGC Espinoza, FPO AP 36939",
+            "IdAkun": "6"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "241 Cox Drive, Lake Amy, DE 75652",
+            "IdAkun": "7"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "3075 Lindsay Mount Suite 373, Edwardsberg, GA 45621",
+            "IdAkun": "7"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "7949 Pam Shore, West Melissa, MA 97603",
+            "IdAkun": "8"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "08644 Ross Pass, New Lauramouth, VA 85476",
+            "IdAkun": "9"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "041 Amanda Heights Suite 240, Russellberg, NE 36176",
+            "IdAkun": "10"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "8223 Michael Spurs Apt. 051, Rosstown, KS 19589",
+            "IdAkun": "11"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "USCGC Garcia, FPO AA 61720",
+            "IdAkun": "11"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "81138 Garza Courts Apt. 559, Port Meredithville, IL 65134",
+            "IdAkun": "12"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "367 Megan Islands Apt. 787, New Meghan, VA 45033",
+            "IdAkun": "13"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "65039 Andrews Shoals Suite 253, Port Brittany, WI 07467",
+            "IdAkun": "14"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "93280 Mckee Ports, West Richard, KY 10420",
+            "IdAkun": "15"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "USCGC Robinson, FPO AE 22490",
+            "IdAkun": "15"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "1468 Grace Road, Lake Maria, IL 42734",
+            "IdAkun": "16"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "USCGC Warner, FPO AE 82552",
+            "IdAkun": "17"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "586 Johnson Manor, Higginsfort, NV 47189",
+            "IdAkun": "18"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "802 Downs Pass, Jennaside, OR 08292",
+            "IdAkun": "19"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "20760 Michael Curve Apt. 868, Cameronhaven, OR 69385",
+            "IdAkun": "19"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "29132 Edwards Forges Apt. 696, Rachelville, OR 90594",
+            "IdAkun": "20"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "06546 Kevin Plaza, Lake Danielborough, CO 70135",
+            "IdAkun": "21"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "46280 Trevor Parkways, Dawnburgh, ND 78485",
+            "IdAkun": "22"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "1929 Porter Ford Apt. 594, North Eric, WY 71517",
+            "IdAkun": "23"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "9477 George Forges, New Yesenia, KS 90852",
+            "IdAkun": "23"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "09016 Welch Greens, Lake Alex, CO 52219",
+            "IdAkun": "24"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "836 Lacey Coves Apt. 569, Karenmouth, WV 40099",
+            "IdAkun": "25"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "854 Henderson Harbors Apt. 199, East Jacqueline, SC 72294",
+            "IdAkun": "26"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "53224 Adams Creek Suite 377, Ryantown, OK 39886",
+            "IdAkun": "27"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "5773 Deborah Estate, Courtneyland, LA 44222",
+            "IdAkun": "27"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "67841 William Mission, North John, MT 33250",
+            "IdAkun": "28"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "94098 Henry Bridge Suite 427, West Shawnchester, VT 46534",
+            "IdAkun": "29"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "38881 Smith Pine, Dustinmouth, NH 39001",
+            "IdAkun": "30"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "930 Catherine Bridge, Kellymouth, CT 66176",
+            "IdAkun": "31"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "420 Marcus Vista, North Rachel, AK 09183",
+            "IdAkun": "31"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "682 Alicia Squares Suite 279, Lake Christopherland, DC 49656",
+            "IdAkun": "32"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "98187 Jason Grove, Evansport, MT 36834",
+            "IdAkun": "33"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "206 Victoria Highway, Brittanyfort, IN 22753",
+            "IdAkun": "34"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "1191 Amanda Isle Suite 989, North Julieland, HI 33452",
+            "IdAkun": "35"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "Unit 4826 Box 7109, DPO AP 28089",
+            "IdAkun": "35"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "032 Whitney Parkways Apt. 640, Barrettstad, TN 95753",
+            "IdAkun": "36"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "0270 Amanda Shoal, Allenmouth, AK 73841",
+            "IdAkun": "37"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "9080 Nelson Route, Port Robertfort, WI 56570",
+            "IdAkun": "38"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "262 Peters Mountain, Jamesview, NC 96254",
+            "IdAkun": "39"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "162 Robert Crescent, Cesarburgh, NC 18559",
+            "IdAkun": "39"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "8878 Moore Crest, Chanstad, NH 39428",
+            "IdAkun": "40"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "796 Cassie Ford Suite 211, Markport, IN 14024",
+            "IdAkun": "41"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "657 Luke Ramp Suite 716, Davisfort, WA 61134",
+            "IdAkun": "42"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "86543 Aaron Islands, Howellton, VA 97851",
+            "IdAkun": "43"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "6476 Matthew Station, Port Megan, MI 72496",
+            "IdAkun": "43"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "47383 Angela Hill, Leahfurt, WI 22118",
+            "IdAkun": "44"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "96583 Roger Divide, Floresberg, CO 67763",
+            "IdAkun": "45"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "9123 Laura Turnpike Apt. 474, Andrewsshire, AZ 50789",
+            "IdAkun": "46"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "23059 Becker Run Apt. 755, Chapmanport, IN 55765",
+            "IdAkun": "47"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "493 Diana Branch Suite 671, Garciaport, MI 43185",
+            "IdAkun": "47"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "578 Christina Centers, Williamland, OR 58466",
+            "IdAkun": "48"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "82513 Oliver Parkway Suite 732, Villarrealfurt, WA 60565",
+            "IdAkun": "49"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "4550 Summers Greens, New Christopherport, NC 47227",
+            "IdAkun": "50"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "1438 Vincent Port, Fuentesshire, IN 73966",
+            "IdAkun": "51"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "7148 Jade Point Suite 451, Port Craig, SD 35386",
+            "IdAkun": "51"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "0342 Diane Ferry, Mendezstad, NY 54922",
+            "IdAkun": "52"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "2122 Victor Mission, West Allen, HI 08269",
+            "IdAkun": "53"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "084 Williams Brooks Suite 886, Michaelaberg, KS 44019",
+            "IdAkun": "54"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "2919 Hurst Vista Apt. 323, Port Christopher, ME 03055",
+            "IdAkun": "55"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "272 Gould Divide Apt. 548, West Angelafort, ND 95950",
+            "IdAkun": "55"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "842 Belinda Bypass, Deckermouth, WI 14765",
+            "IdAkun": "56"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "0205 Walker Spring Apt. 628, Johnhaven, NV 62673",
+            "IdAkun": "57"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "67832 Melissa Summit Suite 601, Maxwellmouth, AK 32837",
+            "IdAkun": "58"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "3592 Valentine Road, Gordonhaven, DE 62744",
+            "IdAkun": "59"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "660 Kelly Common, West Shaneview, AZ 87012",
+            "IdAkun": "59"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "437 Kyle Fords, Christieland, MN 99565",
+            "IdAkun": "60"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "98881 William Springs, South Ryanchester, RI 73592",
+            "IdAkun": "61"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "5853 Fox Isle Apt. 544, North Danielside, AK 87645",
+            "IdAkun": "62"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "0407 Jonathan Plains, Virginiaton, MI 98373",
+            "IdAkun": "63"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "198 Stone Shores Suite 427, Donnahaven, WV 13780",
+            "IdAkun": "63"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "726 Julie Camp, Sanchezfort, VA 56320",
+            "IdAkun": "64"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "2903 Turner Valley Apt. 087, Crystalton, MA 27215",
+            "IdAkun": "65"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "86951 Williams Mill Suite 086, Port Marthaside, WV 11567",
+            "IdAkun": "66"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "676 Shawn Valleys, New Sabrinaburgh, DC 10051",
+            "IdAkun": "67"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "29218 Andrew Dale, Hernandezberg, OR 02164",
+            "IdAkun": "67"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "180 Vanessa Pine, South Theresa, DE 39589",
+            "IdAkun": "68"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "1306 Erin Camp, West Krystal, NV 76823",
+            "IdAkun": "69"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "8608 Harris Village Apt. 128, Ramoston, MS 71370",
+            "IdAkun": "70"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "7289 Bruce Route, Gloverchester, NJ 57341",
+            "IdAkun": "71"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "98508 Kara Pines Apt. 201, Kristenville, WY 25659",
+            "IdAkun": "71"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "097 Rebecca Turnpike Apt. 834, Jonathanville, NY 77888",
+            "IdAkun": "72"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "37159 Matthew Drive, Amyton, GA 52079",
+            "IdAkun": "73"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "1714 Calderon Drive, East Lauren, CT 83321",
+            "IdAkun": "74"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "5348 Lisa Spurs, Kennethhaven, VT 53383",
+            "IdAkun": "75"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "5871 Richard Square, Halebury, MT 15001",
+            "IdAkun": "75"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "6223 Crawford Fork Apt. 924, North Sarahmouth, MO 13588",
+            "IdAkun": "76"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "267 Le Groves, Jessefurt, OR 69552",
+            "IdAkun": "77"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "9315 Lee Camp Apt. 624, East Tammy, OR 05445",
+            "IdAkun": "78"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "013 Janet Ports Apt. 717, Williamsfurt, OK 84524",
+            "IdAkun": "79"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "91272 Fowler Route, Williammouth, DE 16963",
+            "IdAkun": "79"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "595 Rhonda Unions, Port Willieville, FL 60984",
+            "IdAkun": "80"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "3744 Mitchell Lane Apt. 373, South Ryan, IN 78263",
+            "IdAkun": "81"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "1815 Stout Track Apt. 360, Lake Courtney, SC 63446",
+            "IdAkun": "82"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "906 Nicholas Village Apt. 346, Nicholasberg, CA 05278",
+            "IdAkun": "83"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "7400 Fitzgerald Mission, North Alexandermouth, PA 35501",
+            "IdAkun": "83"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "0778 Bautista Crest, West Jessicaland, CT 75142",
+            "IdAkun": "84"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "065 Young Estate Suite 265, New Debbiechester, ND 93719",
+            "IdAkun": "85"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "USCGC Wilson, FPO AP 52908",
+            "IdAkun": "86"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "35714 Lee Wells Suite 790, Thomasbury, GA 89759",
+            "IdAkun": "87"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "42816 Alexander Cove, New Elizabeth, GA 81385",
+            "IdAkun": "87"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "2610 Walsh Course Suite 897, Jasonchester, TN 10948",
+            "IdAkun": "88"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "66183 Thompson Courts Apt. 363, New Juanmouth, NJ 53063",
+            "IdAkun": "89"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "Unit 7181 Box 4803, DPO AP 12067",
+            "IdAkun": "90"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "892 Harper Summit Suite 073, East Edwardfurt, NV 82335",
+            "IdAkun": "91"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "4619 Gabriel Hills, West Jonathanmouth, NV 60862",
+            "IdAkun": "91"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "873 Elijah Point Apt. 661, Ferrellburgh, AK 04146",
+            "IdAkun": "92"
+        },
+        {
+            "NamaAlamat": "Bisnis",
+            "Detail": "03298 Taylor Plain, Port Jason, DC 05606",
+            "IdAkun": "93"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "1433 Wright Meadow Apt. 674, Port Nicole, WI 13189",
+            "IdAkun": "94"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "745 Dodson Square, South Kellyville, IL 16960",
+            "IdAkun": "95"
+        },
+        {
+            "NamaAlamat": "Kerja",
+            "Detail": "87178 Kimberly Row Apt. 040, South Christopher, TX 92082",
+            "IdAkun": "95"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "639 Hernandez Viaduct Suite 193, Lake Elizabethville, NH 29227",
+            "IdAkun": "96"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "6127 Garza Brooks Apt. 868, Port Brettside, OR 07402",
+            "IdAkun": "97"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "529 Golden Center, South Jennifer, CA 92629",
+            "IdAkun": "98"
+        },
+        {
+            "NamaAlamat": "Rumah",
+            "Detail": "397 Davis Union Suite 764, Terrellmouth, DC 09655",
+            "IdAkun": "99"
+        },
+        {
+            "NamaAlamat": "Misc",
+            "Detail": "207 Wiggins Ridges Apt. 621, Lake Larry, AR 72941",
+            "IdAkun": "99"
+        }
+    ]
+}
