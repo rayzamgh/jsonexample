@@ -1,0 +1,40 @@
+{
+    "Kurir": [
+        {
+            "id_kurir": 5011,
+            "nama": "Shah"
+        },
+        {
+            "id_kurir": 3792,
+            "nama": "Stephenson"
+        },
+        {
+            "id_kurir": 6223,
+            "nama": "Nelson"
+        },
+        {
+            "id_kurir": 3794,
+            "nama": "Gates"
+        },
+        {
+            "id_kurir": 6255,
+            "nama": "Phelps"
+        },
+        {
+            "id_kurir": 3796,
+            "nama": "Vazquez"
+        },
+        {
+            "id_kurir": 3797,
+            "nama": "Shaw"
+        },
+        {
+            "id_kurir": 5018,
+            "nama": "Rodriguez"
+        },
+        {
+            "id_kurir": 3799,
+            "nama": "Santos"
+        }
+    ]
+}
